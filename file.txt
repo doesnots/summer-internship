@@ -1,5 +1,5 @@
 Team Members:
-Dev1
+Dev1-vidhi
 Dev2
 Dev3
 Manager
